@@ -1,0 +1,26 @@
+{
+  "nombre": "Paracetamol",
+  "principo_activo": "Paracetamol",
+  "presentaion": "Tabletas 500mg",
+  "laboratorio": "Laboratorio Vida S.A.",
+  "cantidad": 50,
+  "precio": 12.5
+}
+
+{
+  "nombre": "Amoxicilina",
+  "principo_activo": "Amoxicilina",
+  "presentaion": "Suspensión 250mg/5ml",
+  "laboratorio": "Laboratorio Vida S.A.",
+  "cantidad": 5,
+  "precio": 15.0
+}
+
+{
+  "nombre": "Loratadina",
+  "principo_activo": "Loratadina",
+  "presentaion": "Tabletas 10mg",
+  "laboratorio": "Salud y Bienestar",
+  "cantidad": 40,
+  "precio": 6.95
+}
